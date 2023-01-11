@@ -1,0 +1,20 @@
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Artificial Intelligence\UWC\8 Puzzle Project\8PuzzleProblem\bin\Debug\8PuzzleProblem.exe.config
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Artificial Intelligence\UWC\8 Puzzle Project\8PuzzleProblem\bin\Debug\8PuzzleProblem.exe
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Artificial Intelligence\UWC\8 Puzzle Project\8PuzzleProblem\bin\Debug\8PuzzleProblem.pdb
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Artificial Intelligence\UWC\8 Puzzle Project\8PuzzleProblem\obj\Debug\8PuzzleProblem.csprojAssemblyReference.cache
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Artificial Intelligence\UWC\8 Puzzle Project\8PuzzleProblem\obj\Debug\_8PuzzleProblem.Form1.resources
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Artificial Intelligence\UWC\8 Puzzle Project\8PuzzleProblem\obj\Debug\_8PuzzleProblem.Properties.Resources.resources
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Artificial Intelligence\UWC\8 Puzzle Project\8PuzzleProblem\obj\Debug\8PuzzleProblem.csproj.GenerateResource.cache
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Artificial Intelligence\UWC\8 Puzzle Project\8PuzzleProblem\obj\Debug\8PuzzleProblem.csproj.CoreCompileInputs.cache
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Artificial Intelligence\UWC\8 Puzzle Project\8PuzzleProblem\obj\Debug\8PuzzleProblem.exe
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Artificial Intelligence\UWC\8 Puzzle Project\8PuzzleProblem\obj\Debug\8PuzzleProblem.pdb
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Artificial Intelligence\UWC\Machime Learning module\Part 1. Prof Louise Leenen\8 Puzzle Project\8PuzzleProblem\bin\Debug\8PuzzleProblem.exe.config
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Artificial Intelligence\UWC\Machime Learning module\Part 1. Prof Louise Leenen\8 Puzzle Project\8PuzzleProblem\bin\Debug\8PuzzleProblem.exe
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Artificial Intelligence\UWC\Machime Learning module\Part 1. Prof Louise Leenen\8 Puzzle Project\8PuzzleProblem\bin\Debug\8PuzzleProblem.pdb
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Artificial Intelligence\UWC\Machime Learning module\Part 1. Prof Louise Leenen\8 Puzzle Project\8PuzzleProblem\obj\Debug\8PuzzleProblem.csprojAssemblyReference.cache
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Artificial Intelligence\UWC\Machime Learning module\Part 1. Prof Louise Leenen\8 Puzzle Project\8PuzzleProblem\obj\Debug\_8PuzzleProblem.Form1.resources
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Artificial Intelligence\UWC\Machime Learning module\Part 1. Prof Louise Leenen\8 Puzzle Project\8PuzzleProblem\obj\Debug\_8PuzzleProblem.Properties.Resources.resources
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Artificial Intelligence\UWC\Machime Learning module\Part 1. Prof Louise Leenen\8 Puzzle Project\8PuzzleProblem\obj\Debug\8PuzzleProblem.csproj.GenerateResource.cache
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Artificial Intelligence\UWC\Machime Learning module\Part 1. Prof Louise Leenen\8 Puzzle Project\8PuzzleProblem\obj\Debug\8PuzzleProblem.exe
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Artificial Intelligence\UWC\Machime Learning module\Part 1. Prof Louise Leenen\8 Puzzle Project\8PuzzleProblem\obj\Debug\8PuzzleProblem.pdb
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Artificial Intelligence\UWC\Machime Learning module\Part 1. Prof Louise Leenen\8 Puzzle Project\8PuzzleProblem\obj\Debug\8PuzzleProblem.csproj.CoreCompileInputs.cache
